@@ -1,0 +1,2 @@
+﻿PavilCanyonTelemetry log started 2026-05-25T14:15:20.7366021-07:00
+2026-05-25T14:15:22.7898512-07:00 FromRadio: { }

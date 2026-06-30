@@ -1,0 +1,6 @@
+﻿PavilCanyonTelemetry log started 2026-05-25T14:17:20.2806394-07:00
+2026-05-25T14:17:20.2902775-07:00 FromRadio: { }
+2026-05-25T14:17:38.7851587-07:00 TX to @LongFast: Is my software broken?
+2026-05-25T14:17:38.8047998-07:00 FromRadio: { }
+2026-05-25T14:17:53.4446680-07:00 TX to @LongFast: Something is broken
+2026-05-25T14:17:53.4535511-07:00 FromRadio: { }
